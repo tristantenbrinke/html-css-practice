@@ -1,0 +1,37 @@
+
+body {
+  margin: 0;
+  padding: 4px;
+  background-image: linear-gradient(#a8d7f4 20%,#d3e4f6 60%, white);
+
+  text-align: center;
+  font-family: 'Fredoka', sans-serif;
+}
+
+h1 {
+  font-family: 'Sriracha', cursive;
+  color: #000000;
+}
+
+span {
+  color: #630000;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 70px;
+  width:100%;
+}
+.profile {
+  width: 30%;
+}
+  .top-cloud {
+    position: absolute;
+    right: 20%;
+    top: 40px;
+  }
+  .bottom-cloud {
+    position: absolute;
+    left: 20%;
+    bottom: 300px;
+  }
